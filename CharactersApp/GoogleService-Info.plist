@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>923610212843-tkb9ofnkv2g6eqd30j7voienh329a4so.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.923610212843-tkb9ofnkv2g6eqd30j7voienh329a4so</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPG3xMcN1-0U8S2uIJYtfhRX2fYKpFcpY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>923610212843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>aservin.CharactersApp</string>
+	<key>PROJECT_ID</key>
+	<string>charactersapp98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>charactersapp98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:923610212843:ios:733579b344d1eb05</string>
+	<key>DATABASE_URL</key>
+	<string>https://charactersapp98.firebaseio.com</string>
+</dict>
+</plist>
